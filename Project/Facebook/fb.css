@@ -1,0 +1,166 @@
+.header{
+    width:100%;
+    height:100Px;
+    background-color: rgb(24, 70, 138);
+}
+body{
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+}
+.body{
+width:100%;
+background-color: rgb(250, 251, 255);
+height:700px;
+}
+.footer{
+height:200px;
+width:100%;
+background-color: blueviolet;
+}
+.logo{
+    width: 50%;
+    height:100px;
+    float:left;
+
+}
+.login{
+    float:left;
+    width:50%;
+    height:100px;
+}
+.logo-text{
+    color:white;
+    font-size:45px;
+    display:inline-block;
+    font-weight: bolder;
+    text-decoration: none;
+    padding-left: 190px;
+    padding-top: 30px;
+}
+.login-field{
+    padding-left: 200px;
+    padding-top: 10px;
+}
+.login-label{
+    float:left;
+    color: white;
+    font-weight: bolder;
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: small;
+}
+.forgotten{
+    font-size: small;
+    color:white;
+    text-decoration: none;
+}
+.login-box{
+    background-color:rgb(24, 70, 138);
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: rgb(67, 67, 136);
+}
+.login-box:hover{
+    background:red;
+}
+.body-left{
+width:50%;
+height:700px;
+float:left;
+}
+.para{
+    font-weight: bold;
+    padding-left: 190px;
+    padding-top: 35px;
+}
+.body-left-img{
+    width:500px;
+    height:150px;
+    padding-left:190px;
+}
+.body-right{
+    width:50%;
+    height:700px;
+    float:left;
+}
+.heading{
+padding-left:190px;
+font-weight: bold;
+font-size:xx-large;
+}
+.paragraph{
+    font: size 40px;
+    font-weight: bold;
+    padding-left:190px;
+}
+.type{
+    width:346px;
+    float:down;
+}
+.surname{
+    padding-left:15px;
+    float:left;
+}
+.firstname{
+    float:left;
+    padding-left:190px;
+}
+.address{
+    margin-top:5px;
+    padding-left:190px;
+}
+.psswd{
+    margin-top:8px;
+    padding-left:190px;
+}
+.name{
+    width:700px;
+    height:25px
+}
+.birthday{
+    padding-left:190px;
+    color:grey
+}
+.gender{
+    padding-left: 190px;
+    margin-top:20px;
+}
+.sentence{
+    padding-left:190px;
+    color:grey;
+}
+.link{
+    text-decoration:none;
+}
+.box{
+    background-color:rgb(24, 138, 47);
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: rgb(67, 136, 85);
+    margin-left:190px;
+    width:200px;
+    margin-top:10px;
+    height:30px;
+    border-radius:5px;
+}
+.sen{
+    padding-left:190px;
+    color:grey;
+    margin-top:40px;
+}
+.question{
+    background-color: black;
+    border-radius:10px;
+    background-color: grey;
+    padding-left:4px;
+    padding-right:4px;
+    font-weight: bold;
+    color:white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.rearrange{
+    margin-left:20px;
+
+}
